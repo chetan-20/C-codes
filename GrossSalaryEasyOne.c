@@ -17,11 +17,4 @@ printf("the gross salary is:%.2f\n",GS);
 
 }
 
-/* Output
-dbit@elab2-31:~$ cd /home/dbit/Desktop/sawan
-dbit@elab2-31:~/Desktop/sawan$ gcc program8.c -o program8out -lm
-dbit@elab2-31:~/Desktop/sawan$ ./program8out
-enter the basic:10000
-the gross salary is:17200.00
-dbit@elab2-31:~/Desktop/sawan$
-*/
+
